@@ -8,6 +8,6 @@ function init() {
    else
 return "nothing"
 };
-};
+}
   
   
