@@ -10,10 +10,6 @@ function init() {
     console.log('Nothing');
   }
 });
+}
   
   
-  
-console.log (this.firstChild.nodeValue.trim() + ' Awesome')
-      for (let i = 0, l = code.length; i < l; i++) {
-       divs[i].addEventListener('keydown', 'Awesome'); }
- }
