@@ -5,10 +5,9 @@ function init() {
   input.addEventListener('keydown', function(e) {
   if (e.which === code.length)
    return 'Awesome'
-  
- else
+   else
 return "nothing"
-}
-}
+};
+};
   
   
